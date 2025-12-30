@@ -1,26 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="sports",star sports 1
-https://edge2.roarzone.info:8443/roarzone/edge2/star-sports-1-hd/index.m3u8?token=69ff24db8ab3cc0771f1579ccc0804ef82090724-a646f734eacd89922a1014c4298b8e28-1767113329-1767109729
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/26.png" group-title="sports",star sports 2
-https://edge2.roarzone.info:8443/roarzone/edge2/star-sports-2-hd/index.m3u8?token=4d9d2f6facd7963eb5ff91df76dfc27cf0c55f30-37398e75d8fc37a3ea9c39adc3c49335-1767113329-1767109729
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/1.png" group-title="sports",gazi tv
-https://edge2.roarzone.info:8443/roarzone/edge2/gazitv/index.m3u8?token=3762662d2404a0cfb8b8a6d7fb65804619326e9c-86cfdddc81aae2ac75fbc7955565e042-1767113329-1767109729
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/73.png" group-title="sports",ptv spotrs
-https://edge2.roarzone.info:8443/roarzone/edge2/ptv/index.m3u8?token=5ef07991c5b2697644db2c6151accfbf89b14851-dd29ca3306b2bd8f97a5e8c0209fe967-1767113329-1767109729
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/add-sports-1.png" group-title="sports",asports
-https://edge2.roarzone.info:8443/roarzone/edge2/asports/index.m3u8?token=fe2422b2deb07ae47ee7e7e938af9c296ef20f57-47715caa96b1377e816f193707ee42fa-1767113329-1767109729
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/abc-australia.png" group-title="sports",abc-australia
-https://edge2.roarzone.info:8443/roarzone/edge2/abc-australia/index.m3u8?token=b5232c41fd742427c22dd3117fb1f417b97d8c5b-dc1bcbc85c858f024a2b76f66688ebe8-1767113329-1767109729
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/20.png" group-title="sports",sony ten 1
-https://edge2.roarzone.info:8443/roarzone/edge2/sony-sports-1-hd/index.m3u8?token=eea34b9de9fcffe9611fa799bde4eaaad8bc1fa6-9a3d04ca41c48bd7c1b71f9d2498adad-1767113330-1767109730
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/21.png" group-title="sports",sony ten 2
-https://edge2.roarzone.info:8443/roarzone/edge2/sony-sports-2-hd/index.m3u8?token=903fea8cc8b222368c6de11e5122bd185aae1054-f451c87b4c82b86456631a21866dee36-1767113329-1767109729
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/22.png" group-title="sports",sony ten 3
-https://edge2.roarzone.info:8443/roarzone/edge2/sony-sports-3-hd/index.m3u8?token=d8df7c65ee388f2d33341713253e71e2b9a71692-d4c5a5ace324cc05749267eef7247882-1767113329-1767109729
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/24.png" group-title="sports",sony six
-https://edge2.roarzone.info:8443/roarzone/edge2/sony-sports-5-hd/index.m3u8?token=6a1572e3deafcc20fad1d04a6fc85ddc2f850149-698bbca35e52a146953e1d370e9be9c4-1767113329-1767109729
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/27.png" group-title="sports",star sports select 1
 https://edge2.roarzone.info:8443/roarzone/bk/27/index.m3u8?token=2764fcb32b2f4b29e3eb1b28f5ec6bfa9063f5e7-b0948a6e7afbaf2542f8b5f0727adf7d-1767113329-1767109729
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/28.png" group-title="sports",star sports select 2
@@ -187,4 +167,5 @@ https://edge2.roarzone.info:8443/roarzone/bk/88/index.m3u8?token=7693d3d360c1c2b
 https://edge2.roarzone.info:8443/roarzone/edge2/ekhontv/index.m3u8?token=2c85098da8ca2b94e7d9d4de8a74e1972ee6a18f-d512a57e0784bc46980d7966d5e11b82-1767113329-1767109729
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/bijoy-tv.jpg" group-title="bangla",bijoy-tv
 https://edge2.roarzone.info:8443/roarzone/ext/bijoy-tv/index.m3u8?token=493de629254d0b9dcff940fd8406c827abc72ce2-81364e66fdf76bc222c51b42c2470864-1767113329-1767109729
+
 
