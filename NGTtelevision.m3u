@@ -203,9 +203,10 @@ https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="History",History TV 18 HD
 http://119.152.240.15:8000/play/a0bj/index.m3u8
-# --- Category: Bangla ---
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnWdHSrq/20250529-071604.png" group-title="Bangla", BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
 https://bongoflixbd.top/bk/53.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png" group-title="News", BTV News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
@@ -400,4 +401,5 @@ https://bongoflixbd.top/toffee/animal_planet_hd.m3u8?user=bongoflix&pass=eaminva
 https://bongoflixbd.top/bk/83.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn4KK0kW/20251031_210443.png" group-title="Others", Nat Geo
 https://bongoflixbd.top/bk/35.m3u8?user=bongoflix&pass=eaminvai
+
 
